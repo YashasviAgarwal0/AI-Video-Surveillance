@@ -1,0 +1,28 @@
+body
+{
+    background-size: cover;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1
+{
+   width: 100%;
+   margin: 0;
+   padding: 15px !important;
+   font-size: 20px !important;
+}
+
+#by
+{
+    background-color: beige;
+    width: 100%;
+    padding: 20px;
+    margin: 0;
+    bottom: 0;
+    position: fixed;
+}
+
+canvas
+{
+    margin-top: 50px;
+}
